@@ -3,13 +3,13 @@
 	"version": "0.1.0",
 	"license": "MIT",
 	"repository": {
-	    "type": "git",
-	    "url": "https://github.com/Scytheric/VolumePlus.git"
+		"type": "git",
+		"url": "https://github.com/Scytheric/VolumePlus.git"
 	},
 	"contributors": [
-	    "elttob"
+		"scytheric"
 	],
 	"bugs": {
-	    "url": "https://github.com/Scytheric/VolumePlus/issues"
+		"url": "https://github.com/Scytheric/VolumePlus/issues"
 	}
   }
