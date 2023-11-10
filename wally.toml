@@ -1,0 +1,14 @@
+[package]
+name = "scytheric/volume-plus"
+description = "A volume/zone handling library to help create and supercharge 3D volumes."
+license = "MIT"
+authors = ["Scytheric"]
+version = "0.1.0-dev.1"
+
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "wally.lock", "wally.toml"]
+
+[dependencies]
